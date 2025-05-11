@@ -1,0 +1,26 @@
+# Stage 1: Build
+FROM golang:1.24-alpine AS builder
+
+WORKDIR /app
+
+# Copy go mod files and download dependencies
+COPY go.mod go.sum ./
+RUN go mod download
+
+# Copy all source files
+COPY . .
+
+# Build the Go binary
+RUN go build -o req-blockchain main.go
+
+# Stage 2: Minimal run image
+FROM alpine:latest
+
+WORKDIR /app
+
+# Copy the compiled binary from the builder stage
+COPY --from=builder /app/req-blockchain .
+
+EXPOSE 18085
+
+CMD ["./req-blockchain"]

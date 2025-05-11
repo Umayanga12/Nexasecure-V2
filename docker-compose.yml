@@ -1,0 +1,94 @@
+
+services:
+  redis:
+    image: redis:7.2-alpine
+    container_name: redis-cache
+    ports:
+      - "6379:6379"
+    environment:
+      - REDIS_PASSWORD=pass123
+    command: ["redis-server", "--requirepass", "pass123"]
+    volumes:
+      - redis-data:/data
+    networks:
+      - authnet
+
+  db:
+    image: postgres:15
+    container_name: authdb
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: adminuser
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: authdb
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - authnet
+
+  auth_blockchain:
+    build:
+      context: ./auth-blockchain
+    ports:
+      - "18080:18080"
+    depends_on:
+      - redis
+      - db
+    networks:
+      - authnet
+
+  req_blockchain:
+    build:
+      context: ./req-blockchain
+    ports:
+      - "18081:18080"
+    depends_on:
+      - redis
+      - db
+    networks:
+      - authnet
+
+  auth_server:
+    build:
+      context: ./auth-server
+    ports:
+      - "18909:18909"
+    depends_on:
+      - redis
+      - db
+    env_file:
+      - auth-server/.env
+    networks:
+      - authnet
+
+  socket_server:
+    build:
+      context: ./socket-server
+    ports:
+      - "9000:8080"
+    depends_on:
+      - redis
+      - db
+      - auth_server
+      - req_blockchain
+    networks:
+      - authnet
+
+  server_main:
+    build:
+      context: ./server-main
+    ports:
+      - "8081:8080"
+    depends_on:
+      - redis
+      - db
+    networks:
+      - authnet
+
+volumes:
+  redis-data:
+  pgdata:
+
+networks:
+  authnet:

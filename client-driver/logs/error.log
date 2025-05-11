@@ -1,0 +1,124 @@
+2025-04-23 21:17:13,255 - SecureWalletLogger - ERROR - Server URL or Port is not set in environment variables.
+2025-04-23 21:18:09,154 - SecureWalletLogger - ERROR - Server URL or Port is not set in environment variables.
+2025-04-24 21:04:53,056 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:13:05,753 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:13:31,246 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:14:20,255 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:14:28,976 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:17:54,019 - SecureWalletLogger - ERROR - Failed to connect to server: [Errno 111] Connection refused
+2025-04-24 21:20:39,668 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-24 21:22:27,413 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 01:42:12,548 - SecureWalletLogger - ERROR - Invalid server URL type. Expected string format 'host:port'
+2025-04-29 01:42:12,581 - SecureWalletLogger - ERROR - Failed to connect to the socket server.
+2025-04-29 01:43:09,749 - SecureWalletLogger - ERROR - Invalid server URL type. Expected string format 'host:port'
+2025-04-29 01:43:09,750 - SecureWalletLogger - ERROR - Failed to connect to the socket server.
+2025-04-29 10:12:28,190 - SecureWalletLogger - ERROR - Invalid server URL type. Expected string format 'host:port'
+2025-04-29 10:30:24,474 - SecureWalletLogger - ERROR - Server address is not provided.
+2025-04-29 10:30:33,493 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 12:49:33,823 - SecureWalletLogger - ERROR - Server address is not provided.
+2025-04-29 12:49:41,674 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 12:55:51,132 - SecureWalletLogger - ERROR - Could not connect to the socket server: 'NoneType' object has no attribute 'split'
+2025-04-29 12:55:58,713 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 12:59:59,479 - SecureWalletLogger - ERROR - Could not connect to the socket server: 'NoneType' object has no attribute 'split'
+2025-04-29 13:01:00,653 - SecureWalletLogger - ERROR - Could not connect to the socket server: 'NoneType' object has no attribute 'split'
+2025-04-29 13:01:19,495 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 13:02:20,423 - SecureWalletLogger - ERROR - Invalid remote_server format or value: Invalid remote_server. It must be a non-empty string in 'host:port' format.
+2025-04-29 13:03:19,418 - SecureWalletLogger - ERROR - Invalid remote_server format or value: Invalid remote_server. It must be a non-empty string in 'host:port' format.
+2025-04-29 13:03:56,500 - SecureWalletLogger - ERROR - Invalid remote_server format or value: too many values to unpack (expected 2)
+2025-04-29 13:04:24,398 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 13:14:08,541 - SecureWalletLogger - ERROR - Invalid remote_server format or value: remote_server must be in 'host:port' format.
+2025-04-29 13:16:23,856 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno -2] Name or service not known
+2025-04-29 13:17:19,358 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno -3] Temporary failure in name resolution
+2025-04-29 13:17:40,914 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno -3] Temporary failure in name resolution
+2025-04-29 13:19:56,520 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 13:33:26,043 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 13:45:28,973 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 13:49:18,968 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 14:05:24,767 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 14:11:39,965 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 18:22:31,980 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 18:42:12,597 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 18:43:12,286 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 19:44:25,496 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:31:58,470 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:33:30,071 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:33:30,071 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-04-29 20:36:11,349 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:36:11,349 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-04-29 20:57:25,241 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:57:25,241 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-04-30 23:00:56,638 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-04-30 23:01:52,071 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-04-30 23:02:20,051 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-04-30 23:10:50,362 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-05-01 00:05:47,957 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:05:49,958 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:05:49,959 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-05-01 00:05:49,959 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-05-01 00:12:34,886 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 5] Input/output error
+2025-05-01 00:12:36,887 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:12:38,888 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:12:38,889 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-05-01 00:12:38,889 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-05-03 15:59:30,056 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-03 20:37:52,689 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-05-03 20:38:07,375 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-05-04 21:31:50,442 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 21:41:24,196 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 21:46:07,200 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 21:50:54,014 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 22:00:36,261 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 22:06:15,901 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 22:38:31,439 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 12:19:45,326 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 14:28:51,699 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 14:50:27,867 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 15:02:01,009 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 15:27:49,598 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 16:21:36,723 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 16:36:10,942 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 16:46:34,719 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 00:50:36,635 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 11:58:39,274 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:48:27,810 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:49:11,507 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:49:54,616 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:49:59,390 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-06 12:50:05,328 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-05-06 13:12:29,215 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:19:26,499 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:21:16,883 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:43:38,574 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:44:53,341 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:47:16,465 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 16:36:10,808 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 16:39:33,830 - SecureWalletLogger - ERROR - Error executing command 'signauthmsg': handle_server_commands.<locals>.<lambda>() missing 1 required positional argument: 'data'
+2025-05-06 23:08:05,724 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 23:10:37,951 - SecureWalletLogger - ERROR - Error executing command 'signauthmsg': handle_server_commands.<locals>.<lambda>() missing 1 required positional argument: 'data'
+2025-05-06 23:11:35,345 - SecureWalletLogger - ERROR - Error executing command 'signauthmsg': handle_server_commands.<locals>.<lambda>() missing 1 required positional argument: 'data'
+2025-05-06 23:20:29,214 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 23:23:42,129 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 23:57:02,268 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 11:31:45,633 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:13:23,151 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:18:45,783 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:23:41,818 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:27:54,966 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:30:29,991 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 11:43:52,529 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 11:49:15,427 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 11:50:12,443 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:04:30,999 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:05:48,400 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:06:57,498 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:27:45,284 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 14:17:33,059 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:17:34,620 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:17:35,773 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:18:06,518 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:18:51,991 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 17:10:16,491 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-09 09:11:02,742 - SecureWalletLogger - ERROR - Error executing command 'getauthnft': write failed: [Errno 5] Input/output error
+2025-05-09 10:27:15,020 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe

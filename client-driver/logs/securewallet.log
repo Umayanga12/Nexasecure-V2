@@ -1,0 +1,428 @@
+2025-04-21 14:55:50,368 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-21 14:59:05,147 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-21 14:59:05,233 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-21 14:59:48,570 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-21 14:59:48,659 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-21 15:01:51,792 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-21 15:01:51,885 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-21 15:02:15,931 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-21 15:02:18,584 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-21 15:02:18,584 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-21 15:02:18,584 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-21 15:02:18,584 - SecureWalletLogger - DEBUG - Context created
+2025-04-21 15:02:18,584 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-21 15:02:18,585 - SecureWalletLogger - DEBUG - Window created
+2025-04-21 15:02:18,665 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-21 15:03:02,268 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-21 15:03:02,284 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-21 15:03:02,290 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-21 15:03:02,291 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-21 15:03:02,291 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-21 15:03:08,295 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-21 15:03:10,668 - SecureWalletLogger - INFO - Serial port closed.
+2025-04-21 15:06:38,598 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-21 15:06:38,695 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-21 15:06:38,699 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-21 15:06:39,798 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-21 15:06:39,798 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-21 15:06:39,798 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-21 15:06:39,799 - SecureWalletLogger - DEBUG - Context created
+2025-04-21 15:06:39,799 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-21 15:06:39,799 - SecureWalletLogger - DEBUG - Window created
+2025-04-21 15:06:39,861 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-21 15:07:59,328 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-22 20:02:06,058 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-22 20:02:09,723 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-22 20:02:09,727 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-22 20:02:10,528 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-22 20:02:10,529 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-22 20:02:10,529 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-22 20:02:10,593 - SecureWalletLogger - DEBUG - Context created
+2025-04-22 20:02:10,594 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-22 20:02:10,595 - SecureWalletLogger - DEBUG - Window created
+2025-04-22 20:02:10,667 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-22 20:02:19,459 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-22 20:02:19,475 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-22 20:02:19,488 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-22 20:02:19,489 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-22 20:02:19,489 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-22 20:02:25,493 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-23 19:51:21,865 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 19:51:21,991 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 19:51:46,042 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 19:51:46,147 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 19:51:46,148 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 19:51:46,148 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 19:51:46,148 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 19:51:46,148 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 19:51:46,148 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 19:51:46,212 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 19:52:14,479 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 19:52:14,495 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 19:52:14,504 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 19:52:14,505 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 19:52:14,506 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 19:52:20,511 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-23 21:02:51,204 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:02:51,305 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:02:51,310 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:02:51,907 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:02:51,908 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:02:51,908 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:02:51,909 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:02:51,909 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:02:51,909 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:02:51,983 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:03:00,171 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 21:03:00,187 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:03:00,202 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:03:00,202 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 21:03:00,204 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 21:03:16,378 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:03:16,499 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:03:16,504 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:03:16,643 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:03:16,643 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:03:16,643 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:03:16,644 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:03:16,644 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:03:16,644 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:03:16,709 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:03:23,710 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 21:03:23,726 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:03:23,737 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:03:23,737 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 21:03:23,738 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 21:03:46,530 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:03:46,654 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:03:46,658 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:03:46,791 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:03:46,791 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:03:46,792 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:03:46,792 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:03:46,792 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:03:46,792 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:03:46,859 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:03:54,439 - SecureWalletLogger - DEBUG - Submit callback: Password = password
+2025-04-23 21:03:54,455 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:03:54,470 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:03:54,470 - SecureWalletLogger - DEBUG - Returning password: password
+2025-04-23 21:03:54,471 - SecureWalletLogger - INFO - Sent: PASS password
+2025-04-23 21:03:54,474 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-23 21:05:00,934 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:05:01,041 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:05:01,046 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:05:01,157 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:05:01,158 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:05:01,158 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:05:01,158 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:05:01,159 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:05:01,159 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:05:01,222 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:05:08,808 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 21:05:08,824 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:05:08,845 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:05:08,845 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 21:05:08,846 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 21:05:08,850 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-23 21:05:09,852 - SecureWalletLogger - INFO - NFT Data: 
+2025-04-23 21:17:04,989 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:17:05,098 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:17:05,103 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:17:05,212 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:17:05,213 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:17:05,213 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:17:05,213 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:17:05,213 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:17:05,213 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:17:05,277 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:17:13,217 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 21:17:13,234 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:17:13,250 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:17:13,250 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 21:17:13,251 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 21:17:13,255 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-23 21:17:13,255 - SecureWalletLogger - ERROR - Server URL or Port is not set in environment variables.
+2025-04-23 21:17:13,256 - SecureWalletLogger - INFO - Sent: GET_NFT
+2025-04-23 21:17:13,258 - SecureWalletLogger - INFO - NFT Data: INVALID
+2025-04-23 21:17:52,711 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:17:52,813 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:17:52,818 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:17:52,923 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:17:52,924 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:17:52,924 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:17:52,924 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:17:52,924 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:17:52,924 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:17:52,985 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:17:55,668 - SecureWalletLogger - DEBUG - Cancel callback triggered
+2025-04-23 21:17:55,685 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:17:55,700 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:17:55,700 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-23 21:17:55,701 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-23 21:18:00,916 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:18:01,011 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:18:01,015 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:18:01,112 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:18:01,112 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:18:01,112 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:18:01,112 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:18:01,113 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:18:01,113 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:18:01,181 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:18:09,117 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 21:18:09,134 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:18:09,148 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:18:09,148 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 21:18:09,149 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 21:18:09,153 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-23 21:18:09,154 - SecureWalletLogger - ERROR - Server URL or Port is not set in environment variables.
+2025-04-23 21:18:09,154 - SecureWalletLogger - INFO - Sent: GET_NFT
+2025-04-23 21:18:09,161 - SecureWalletLogger - INFO - NFT Data: INVALID
+2025-04-23 21:20:43,014 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:20:43,109 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:20:43,114 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:20:43,220 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 21:20:43,221 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 21:20:43,221 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 21:20:43,221 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 21:20:43,221 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 21:20:43,221 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 21:20:43,281 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 21:20:51,093 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 21:20:51,112 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 21:20:51,127 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 21:20:51,128 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 21:20:51,128 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 21:20:51,132 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-23 21:20:51,134 - SecureWalletLogger - INFO - Connected to server at localhost:8080
+2025-04-23 21:20:51,135 - SecureWalletLogger - INFO - Sent: GET_NFT
+2025-04-23 21:20:51,137 - SecureWalletLogger - INFO - NFT Data: INVALID
+2025-04-23 21:54:29,685 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:54:29,810 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:55:12,976 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:55:13,086 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:55:13,090 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 21:59:05,314 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 21:59:05,431 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 21:59:05,435 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 22:01:47,479 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 22:01:47,580 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 22:01:47,585 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 22:01:47,722 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 22:01:47,723 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 22:01:47,723 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 22:01:47,723 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 22:01:47,723 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 22:01:47,723 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 22:01:47,782 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 22:01:57,260 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 22:01:57,277 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 22:01:57,296 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 22:01:57,297 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 22:01:57,297 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 22:01:57,301 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-23 22:01:57,302 - SecureWalletLogger - INFO - Connected to server at localhost:8080
+2025-04-23 22:01:57,302 - SecureWalletLogger - INFO - Sent: GET_NFT
+2025-04-23 22:01:57,305 - SecureWalletLogger - INFO - NFT Data: INVALID
+2025-04-23 22:02:26,523 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-23 22:02:26,645 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-23 22:02:26,650 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-23 22:02:26,757 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-23 22:02:26,757 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-23 22:02:26,757 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-23 22:02:26,758 - SecureWalletLogger - DEBUG - Context created
+2025-04-23 22:02:26,758 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-23 22:02:26,758 - SecureWalletLogger - DEBUG - Window created
+2025-04-23 22:02:26,820 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-23 22:02:33,689 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-23 22:02:33,705 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-23 22:02:33,720 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-23 22:02:33,720 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-23 22:02:33,721 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-23 22:02:33,725 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-23 22:02:33,726 - SecureWalletLogger - INFO - Connected to server at localhost:8080
+2025-04-23 22:02:33,726 - SecureWalletLogger - INFO - Sent: GET_NFT
+2025-04-23 22:02:33,729 - SecureWalletLogger - INFO - NFT Data: INVALID
+2025-04-24 21:13:05,580 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:13:05,753 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:13:31,062 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:13:31,246 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:14:20,074 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:14:20,255 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:14:28,794 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:14:28,976 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-24 21:14:47,891 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:14:48,029 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:14:48,033 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:14:48,587 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:14:48,588 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:14:48,588 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:14:48,589 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:14:48,589 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:14:48,589 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:14:48,677 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:14:57,647 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:14:57,664 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:14:57,678 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:14:57,678 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:14:57,679 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:15:11,417 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:15:11,513 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:15:17,528 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:15:17,634 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:15:17,634 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:15:17,634 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:15:17,634 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:15:17,635 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:15:17,635 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:15:17,696 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:15:26,553 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:15:26,569 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:15:26,582 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:15:26,583 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:15:26,583 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:15:33,111 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:15:33,231 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:15:33,236 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:15:33,345 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:15:33,345 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:15:33,346 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:15:33,346 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:15:33,346 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:15:33,346 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:15:33,411 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:15:45,689 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:15:45,705 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:15:45,719 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:15:45,719 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:15:45,720 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:16:03,831 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:16:03,974 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:16:03,978 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:16:04,092 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:16:04,092 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:16:04,092 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:16:04,092 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:16:04,092 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:16:04,093 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:16:04,154 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:16:12,328 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:16:12,345 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:16:12,361 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:16:12,361 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:16:12,361 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:17:20,482 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:17:20,576 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:17:20,580 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:17:20,684 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:17:20,684 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:17:20,684 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:17:20,684 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:17:20,685 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:17:20,685 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:17:20,741 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:17:32,014 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:17:32,030 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:17:32,052 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:17:32,052 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:17:32,053 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:17:46,895 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:17:47,007 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:17:47,012 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:17:47,126 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:17:47,127 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:17:47,127 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:17:47,127 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:17:47,127 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:17:47,127 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:17:47,194 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:17:53,983 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:17:53,999 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:17:54,013 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:17:54,013 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:17:54,013 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:17:54,018 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-24 21:17:54,019 - SecureWalletLogger - ERROR - Failed to connect to server: [Errno 111] Connection refused
+2025-04-24 21:17:54,019 - SecureWalletLogger - INFO - Sent: GET_NFT
+2025-04-24 21:17:54,022 - SecureWalletLogger - INFO - NFT Data: INVALID
+2025-04-24 21:18:50,552 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:18:50,660 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:18:54,671 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:18:54,786 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:18:54,786 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:18:54,786 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:18:54,787 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:18:54,787 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:18:54,787 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:18:54,851 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:19:01,741 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:19:01,758 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:19:01,771 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:19:01,772 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:19:01,772 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:19:02,273 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-24 21:19:02,274 - SecureWalletLogger - INFO - Connected to server at localhost:8080
+2025-04-24 21:20:14,615 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:20:14,725 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:20:14,730 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:20:14,830 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:20:14,830 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:20:14,830 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:20:14,830 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:20:14,831 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:20:14,831 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:20:14,892 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:20:21,623 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:20:21,640 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:20:21,656 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:20:21,656 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:20:21,657 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:20:21,661 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-24 21:20:21,662 - SecureWalletLogger - INFO - Connected to server at localhost:8080
+2025-04-24 21:20:23,662 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:20:23,663 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-24 21:20:27,663 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:20:27,664 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-24 21:20:31,665 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:20:31,665 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-24 21:20:35,666 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:20:35,667 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-24 21:20:39,668 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:20:39,668 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-24 21:20:39,668 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-24 21:22:02,630 - SecureWalletLogger - INFO - Connection terminated by user.
+2025-04-24 21:22:02,631 - SecureWalletLogger - INFO - Socket connection closed.
+2025-04-24 21:22:02,794 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:22:02,913 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-24 21:22:02,917 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-24 21:22:03,035 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-24 21:22:03,035 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-24 21:22:03,035 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-24 21:22:03,035 - SecureWalletLogger - DEBUG - Context created
+2025-04-24 21:22:03,035 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-24 21:22:03,036 - SecureWalletLogger - DEBUG - Window created
+2025-04-24 21:22:03,093 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-24 21:22:09,369 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-24 21:22:09,386 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-24 21:22:09,403 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-24 21:22:09,404 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-24 21:22:09,404 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-24 21:22:09,408 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-24 21:22:09,409 - SecureWalletLogger - INFO - Connected to server at localhost:8080
+2025-04-24 21:22:11,409 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:22:11,409 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-24 21:22:15,410 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:22:15,410 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-24 21:22:19,411 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:22:19,411 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-24 21:22:23,412 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:22:23,412 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-24 21:22:27,413 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-24 21:22:27,413 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-24 21:22:27,413 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-24 21:24:57,362 - SecureWalletLogger - INFO - Connection terminated by user.
+2025-04-24 21:24:57,362 - SecureWalletLogger - INFO - Socket connection closed.
+2025-04-29 13:17:19,357 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:17:19,358 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno -3] Temporary failure in name resolution
+2025-04-29 18:41:30,992 - SecureWalletLogger - INFO - Logger initialized successfully.
