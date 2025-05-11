@@ -4,7 +4,8 @@
 
 > Enterprise-grade NFT-based authentication framework for microservices
 
-**Description:** A blockchain-integrated system providing a robust physical and logical barrier between users and services through ephemeral NFTs and hardware wallets (ESP32-S3).
+## Description
+This project introduces a secure, NFT-based authentication system designed specifically for microservice architectures operating within big data environments. Unlike traditional token-based systems (e.g., JWT), this system leverages the immutability and ownership model of NFTs to provide robust user identity verification. A blockchain-integrated system providing a robust physical and logical barrier between users and services through ephemeral NFTs and hardware wallets (ESP32-S3). 
 
 ---
 
