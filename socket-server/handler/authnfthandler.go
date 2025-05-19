@@ -35,6 +35,8 @@ func StoreAuthNFTHandler(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "Invalid request body", http.StatusBadRequest)
 		return
 	}
+	fmt.Println("AuthWallPubAddr:", Auth.AuthWallPubAddr)
+	fmt.Println("NFT ID:", Auth.Nft)
 	conAddr, err := util.GetConAddrByAuthPubKey(Auth.AuthWallPubAddr)
 	if err != nil {
 		http.Error(w, "Error retrieving wallet address: "+err.Error(), http.StatusInternalServerError)

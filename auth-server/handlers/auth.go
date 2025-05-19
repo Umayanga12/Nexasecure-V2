@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"os"
 
-	"time"
+	//"time"
 
 	"auth-server/database"
 	"auth-server/logger"
@@ -73,35 +73,35 @@ func Login(w http.ResponseWriter, r *http.Request) {
 	fmt.Printf("User authenticated: %s\n", creds.Username)
 
 	// Generate secure OTP
-	otp, err := generateSecureOTP()
-	if err != nil {
-		// log.Error("Failed to generate OTP: %v", err)
-		http.Error(w, "Failed to generate OTP", http.StatusInternalServerError)
-		return
-	}
-	expiresAt := time.Now().Add(5 * time.Minute)
+	// otp, err := generateSecureOTP()
+	// if err != nil {
+	// 	// log.Error("Failed to generate OTP: %v", err)
+	// 	http.Error(w, "Failed to generate OTP", http.StatusInternalServerError)
+	// 	return
+	// }
+	// expiresAt := time.Now().Add(5 * time.Minute)
 
 	//fmt.Println("Generated OTP: %s, Expires At: %v", otp, expiresAt)
 
 	// Store OTP in the database
-	_, err = database.DB.Exec(context.Background(),
-		"INSERT INTO otps (user_id, code, expires_at) VALUES ($1, $2, $3)",
-		user.ID, otp, expiresAt,
-	)
-	if err != nil {
-		//log.Error("Failed to store OTP for user: %s, error: %v", creds.Username, err) // Re-enabled logging for error
-		http.Error(w, "Failed to generate OTP", http.StatusInternalServerError)
-		return
-	}
+	// _, err = database.DB.Exec(context.Background(),
+	// 	"INSERT INTO otps (user_id, code, expires_at) VALUES ($1, $2, $3)",
+	// 	user.ID, otp, expiresAt,
+	// )
+	// if err != nil {
+	// 	//log.Error("Failed to store OTP for user: %s, error: %v", creds.Username, err) // Re-enabled logging for error
+	// 	http.Error(w, "Failed to generate OTP", http.StatusInternalServerError)
+	// 	return
+	// }
 
-	// //log.Info("OTP generated and stored for user: %s", creds.Username)
+	// // //log.Info("OTP generated and stored for user: %s", creds.Username)
 
-	if err := utils.SendOTPEmail(user.Email, otp); err != nil {
-		//log.Error("Failed to send OTP email to user: %s, error: %v", creds.Username, err)
-		http.Error(w, "Failed to send OTP", http.StatusInternalServerError)
-		fmt.Print(err)
-		return
-	}
+	// if err := utils.SendOTPEmail(user.Email, otp); err != nil {
+	// 	//log.Error("Failed to send OTP email to user: %s, error: %v", creds.Username, err)
+	// 	http.Error(w, "Failed to send OTP", http.StatusInternalServerError)
+	// 	fmt.Print(err)
+	// 	return
+	// }
 
 	// fmt.Printf("OTP sent to email for user: %s\n", creds.Username)
 

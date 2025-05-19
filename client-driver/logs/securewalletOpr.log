@@ -5845,3 +5845,1298 @@ Connection: close
 2025-05-09 10:38:52,886 - SecureWalletLogger - INFO - Socket connection closed.
 2025-05-09 11:04:59,080 - SecureWalletLogger - INFO - Logger initialized successfully.
 2025-05-09 11:04:59,216 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 21:34:15,945 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 21:34:37,810 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 21:34:41,831 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 21:35:05,882 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-17 21:35:06,036 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-17 21:35:06,036 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-17 21:35:06,076 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-17 21:35:06,076 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-17 21:35:06,133 - SecureWalletLogger - DEBUG - Context created
+2025-05-17 21:35:06,134 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-17 21:35:06,135 - SecureWalletLogger - DEBUG - Window created
+2025-05-17 21:35:06,208 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-17 21:35:14,239 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-17 21:35:14,256 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-17 21:35:14,269 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-17 21:35:14,270 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-17 21:35:14,270 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-17 21:35:20,275 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-17 21:35:20,277 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-17 21:38:56,615 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 21:38:56,723 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 21:38:56,727 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-17 21:38:56,743 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-17 21:38:56,744 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-17 21:38:56,745 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-17 21:38:56,771 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-17 21:38:56,771 - SecureWalletLogger - DEBUG - Context created
+2025-05-17 21:38:56,771 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-17 21:38:56,772 - SecureWalletLogger - DEBUG - Window created
+2025-05-17 21:38:56,854 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-17 21:39:02,769 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-17 21:39:02,785 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-17 21:39:02,802 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-17 21:39:02,805 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-17 21:39:02,806 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-17 21:39:08,810 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-17 21:39:08,812 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-17 21:39:16,194 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 21:39:16,299 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 21:39:16,304 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-17 21:39:16,332 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-17 21:39:16,332 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-17 21:39:16,333 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-17 21:39:16,333 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-17 21:39:16,334 - SecureWalletLogger - DEBUG - Context created
+2025-05-17 21:39:16,334 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-17 21:39:16,334 - SecureWalletLogger - DEBUG - Window created
+2025-05-17 21:39:16,423 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-17 21:39:25,723 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-17 21:39:25,729 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-17 21:39:25,729 - SecureWalletLogger - DEBUG - Returning password: None
+2025-05-17 21:39:25,729 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-05-17 21:42:15,320 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 21:42:15,447 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 21:42:15,452 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-17 21:42:15,468 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-17 21:42:15,469 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-17 21:42:15,469 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-17 21:42:15,470 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-17 21:42:15,470 - SecureWalletLogger - DEBUG - Context created
+2025-05-17 21:42:15,471 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-17 21:42:15,472 - SecureWalletLogger - DEBUG - Window created
+2025-05-17 21:42:15,554 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-17 21:42:22,652 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-17 21:42:22,669 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-17 21:42:22,692 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-17 21:42:22,692 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-17 21:42:22,693 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-17 21:42:28,697 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-17 21:42:28,699 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-17 21:43:52,031 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 21:43:52,135 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 21:43:52,140 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-17 21:43:52,161 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-17 21:43:52,161 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-17 21:43:52,162 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-17 21:43:52,162 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-17 21:43:52,163 - SecureWalletLogger - DEBUG - Context created
+2025-05-17 21:43:52,163 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-17 21:43:52,164 - SecureWalletLogger - DEBUG - Window created
+2025-05-17 21:43:52,234 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-17 21:44:00,364 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-17 21:44:00,379 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-17 21:44:00,400 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-17 21:44:00,403 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-17 21:44:00,403 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-17 21:44:06,407 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-17 21:44:06,409 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-17 22:03:23,208 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 22:03:23,314 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 22:03:31,334 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-17 22:03:31,368 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-17 22:03:31,368 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-17 22:03:31,369 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-17 22:03:31,369 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-17 22:03:31,370 - SecureWalletLogger - DEBUG - Context created
+2025-05-17 22:03:31,371 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-17 22:03:31,371 - SecureWalletLogger - DEBUG - Window created
+2025-05-17 22:03:31,450 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-17 22:03:41,387 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-17 22:03:41,403 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-17 22:03:41,421 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-17 22:03:41,421 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-17 22:03:41,422 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-17 22:03:46,926 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-17 22:03:46,928 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-17 22:07:51,482 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-17 22:07:51,583 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-17 22:07:51,587 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-17 22:07:51,602 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-17 22:07:51,602 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-17 22:07:51,603 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-17 22:07:51,603 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-17 22:07:51,603 - SecureWalletLogger - DEBUG - Context created
+2025-05-17 22:07:51,603 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-17 22:07:51,604 - SecureWalletLogger - DEBUG - Window created
+2025-05-17 22:07:51,682 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-17 22:07:56,788 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-17 22:07:56,804 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-17 22:07:56,817 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-17 22:07:56,817 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-17 22:07:56,818 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-17 22:07:56,822 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-17 22:07:56,822 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-17 22:07:56,841 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004cb3dd10e7a83574fa6b562f231b64efeeba25d758f195f2327e59812011c5b0a246de67e5f4f4f0dda80d61facc4ba52dd693e149f69bbc0225217e3e5000d20
+2025-05-17 22:07:56,843 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-17 22:07:56,862 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000476629962215d64e4bba1f53c669efdb085b626e475a432a88d4e955889d144a20d026be3a5962f9fa0ec2e1412f31b36baabdb810419d7cafce27db57ccbc507
+2025-05-17 22:07:56,863 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d03010703420004cb3dd10e7a83574fa6b562f231b64efeeba25d758f195f2327e59812011c5b0a246de67e5f4f4f0dda80d61facc4ba52dd693e149f69bbc0225217e3e5000d20,3059301306072a8648ce3d020106082a8648ce3d0301070342000476629962215d64e4bba1f53c669efdb085b626e475a432a88d4e955889d144a20d026be3a5962f9fa0ec2e1412f31b36baabdb810419d7cafce27db57ccbc507
+
+2025-05-17 22:07:56,871 - SecureWalletLogger - WARNING - Server response: Validation failed
+. Authentication failed.
+2025-05-17 22:07:56,874 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 11:41:38,567 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 11:41:42,236 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 11:41:42,240 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 11:41:42,386 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 11:41:42,386 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 11:41:42,386 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 11:41:42,386 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 11:41:42,387 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 11:41:42,387 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 11:41:42,387 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 11:41:42,455 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 11:41:49,315 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 11:41:49,332 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 11:41:49,348 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 11:41:49,349 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 11:41:49,349 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 11:41:49,353 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 11:41:49,354 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 11:41:49,373 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c
+2025-05-18 11:41:49,375 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 11:41:49,393 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+2025-05-18 11:41:49,394 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c,3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+
+2025-05-18 11:41:49,397 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 11:49:39,882 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 11:49:39,882 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 11:49:39,882 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 11:49:39,886 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 11:49:39,886 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 11:49:39,886 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 11:49:39,888 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 11:52:08,914 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 11:52:09,031 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 11:52:09,036 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 11:52:09,054 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 11:52:09,055 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 11:52:09,055 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 11:52:09,055 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 11:52:09,056 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 11:52:09,056 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 11:52:09,056 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 11:52:09,125 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 11:52:14,747 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 11:52:14,764 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 11:52:14,773 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 11:52:14,774 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 11:52:14,775 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 11:52:14,780 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 11:52:14,783 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 11:52:14,802 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c
+2025-05-18 11:52:14,803 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 11:52:14,821 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+2025-05-18 11:52:14,822 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c,3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+
+2025-05-18 11:52:14,825 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 11:59:12,306 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 11:59:17,661 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 11:59:17,765 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 11:59:17,770 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 11:59:17,790 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 11:59:17,791 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 11:59:17,791 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 11:59:17,791 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 11:59:17,791 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 11:59:17,792 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 11:59:17,792 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 11:59:17,867 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 11:59:23,988 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 11:59:24,005 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 11:59:24,019 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 11:59:24,021 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 11:59:24,022 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 11:59:24,027 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 11:59:24,028 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 11:59:24,047 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c
+2025-05-18 11:59:24,048 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 11:59:24,067 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+2025-05-18 11:59:24,068 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c,3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+
+2025-05-18 11:59:24,073 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 11:59:50,893 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 11:59:50,893 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 11:59:50,893 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 11:59:50,894 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 11:59:50,894 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 11:59:50,894 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 11:59:50,895 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 12:00:06,530 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 12:00:06,631 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 12:00:06,635 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 12:00:06,656 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 12:00:06,657 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 12:00:06,657 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 12:00:06,657 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 12:00:06,657 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 12:00:06,657 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 12:00:06,658 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 12:00:06,725 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 12:00:14,914 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 12:00:14,931 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 12:00:14,945 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 12:00:14,946 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 12:00:14,946 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 12:00:14,950 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 12:00:14,951 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 12:00:14,970 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c
+2025-05-18 12:00:14,971 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 12:00:14,992 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+2025-05-18 12:00:14,994 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c,3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+
+2025-05-18 12:00:15,003 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 12:00:29,007 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:00:29,008 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:00:29,012 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747548372593793092
+2025-05-18 12:00:29,013 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747548372593793092
+2025-05-18 12:00:29,013 - SecureWalletLogger - INFO - Sent result back to server: nft-1747548372593793092
+2025-05-18 12:00:29,035 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:00:29,036 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:00:29,041 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:00:29,042 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:00:29,042 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:00:29,080 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747549829048804804
+2025-05-18 12:00:29,081 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747549829048804804
+2025-05-18 12:00:29,088 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:00:29,089 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:00:29,090 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 12:02:39,769 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:02:39,769 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:02:39,774 - SecureWalletLogger - INFO - Received NFT request response: nft-1747549829048804804
+2025-05-18 12:02:39,774 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747549829048804804
+2025-05-18 12:02:39,775 - SecureWalletLogger - INFO - Sent result back to server: nft-1747549829048804804
+2025-05-18 12:02:39,832 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 12:02:39,833 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 12:02:39,839 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 12:02:39,839 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 12:02:39,839 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:07:10,840 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:07:10,840 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:07:10,843 - SecureWalletLogger - INFO - Received NFT request response: No NFT
+2025-05-18 12:07:10,843 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: No NFT
+2025-05-18 12:07:10,843 - SecureWalletLogger - INFO - Sent result back to server: No NFT
+2025-05-18 12:07:50,474 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:07:50,475 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:07:50,479 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747548372593793092
+2025-05-18 12:07:50,480 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747548372593793092
+2025-05-18 12:07:50,480 - SecureWalletLogger - INFO - Sent result back to server: nft-1747548372593793092
+2025-05-18 12:07:50,505 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:07:50,507 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:07:50,513 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:07:50,513 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:07:50,513 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:07:50,560 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747550270516611991
+2025-05-18 12:07:50,563 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747550270516611991
+2025-05-18 12:07:50,570 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:07:50,570 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:07:50,570 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 12:07:57,606 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:07:57,607 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:07:57,611 - SecureWalletLogger - INFO - Received NFT request response: nft-1747550270516611991
+2025-05-18 12:07:57,612 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747550270516611991
+2025-05-18 12:07:57,612 - SecureWalletLogger - INFO - Sent result back to server: nft-1747550270516611991
+2025-05-18 12:07:57,633 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 12:07:57,635 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 12:07:57,640 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 12:07:57,641 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 12:07:57,642 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:11:33,381 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 12:11:33,381 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 12:11:33,382 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 12:11:33,382 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 12:11:33,382 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 12:11:33,382 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 12:11:33,384 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 12:12:20,058 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 12:12:20,164 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 12:12:20,169 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 12:12:20,186 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 12:12:20,188 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 12:12:20,188 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 12:12:20,190 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 12:12:20,191 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 12:12:20,191 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 12:12:20,192 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 12:12:20,263 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 12:12:27,974 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 12:12:27,990 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 12:12:28,009 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 12:12:28,010 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 12:12:28,010 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 12:12:28,015 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 12:12:28,016 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 12:12:28,035 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c
+2025-05-18 12:12:28,036 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 12:12:28,055 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+2025-05-18 12:12:28,056 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d03010703420004271919f3eca1984f59ee7b8b2bd731397c543a1ba3a26baa37bc83cc54ae74adebc30974f42b04bb282ffa36be0a72a41d1539e863904a6582a0ee6c559c191c,3059301306072a8648ce3d020106082a8648ce3d03010703420004007b10f4bf5231cf0a95020477249bf8c4f359d0c86f04c238fe4c4749cbb34d27e151e5d61769656c63a4d980f0209624d413d93855560294dc3fb7a412f246
+
+2025-05-18 12:12:28,056 - SecureWalletLogger - WARNING - Server response: Validation failed
+. Authentication failed.
+2025-05-18 12:12:28,058 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 12:20:51,827 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 12:20:51,934 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 12:20:51,939 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 12:20:51,955 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 12:20:51,956 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 12:20:51,956 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 12:20:51,957 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 12:20:51,957 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 12:20:51,958 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 12:20:51,959 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 12:20:52,042 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 12:20:57,765 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 12:20:57,781 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 12:20:57,802 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 12:20:57,804 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 12:20:57,805 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 12:20:57,808 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 12:20:57,810 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 12:20:57,828 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 12:20:57,830 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 12:20:57,849 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 12:20:57,850 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 12:20:57,855 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 12:21:03,579 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747551027517576524
+2025-05-18 12:21:03,579 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747551027517576524
+2025-05-18 12:21:03,586 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 12:21:03,586 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 12:21:03,586 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 12:22:49,016 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:22:49,017 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:22:49,022 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747551027517576524
+2025-05-18 12:22:49,022 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747551027517576524
+2025-05-18 12:22:49,022 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551027517576524
+2025-05-18 12:22:49,088 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:22:49,088 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:22:49,095 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:22:49,096 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:22:49,097 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:22:49,133 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747551169102928623
+2025-05-18 12:22:49,136 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747551169102928623
+2025-05-18 12:22:49,143 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:22:49,143 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:22:49,144 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 12:23:00,597 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:23:00,597 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:23:00,602 - SecureWalletLogger - INFO - Received NFT request response: nft-1747551169102928623
+2025-05-18 12:23:00,602 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747551169102928623
+2025-05-18 12:23:00,602 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551169102928623
+2025-05-18 12:23:00,620 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 12:23:00,620 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 12:23:00,626 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 12:23:00,627 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 12:23:00,627 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:23:28,295 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747551027517576524
+2025-05-18 12:23:28,295 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747551027517576524
+2025-05-18 12:23:28,302 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 12:23:28,302 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 12:23:28,302 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 12:28:05,122 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 12:28:05,123 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 12:28:05,123 - SecureWalletLogger - INFO - Received message from server: 
+2025-05-18 12:28:05,123 - SecureWalletLogger - WARNING - Invalid command received: 
+2025-05-18 12:28:05,123 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 12:28:05,123 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 12:28:05,124 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 12:28:22,511 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 12:28:22,612 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 12:28:22,617 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 12:28:22,634 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 12:28:22,634 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 12:28:22,635 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 12:28:22,635 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 12:28:22,635 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 12:28:22,635 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 12:28:22,636 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 12:28:22,701 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 12:28:30,579 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 12:28:30,596 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 12:28:30,616 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 12:28:30,616 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 12:28:30,616 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 12:28:30,620 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 12:28:30,621 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 12:28:30,640 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 12:28:30,641 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 12:28:30,660 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 12:28:30,660 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 12:28:30,662 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 12:28:56,278 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:28:56,278 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:28:56,283 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747551027517576524
+2025-05-18 12:28:56,283 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747551027517576524
+2025-05-18 12:28:56,283 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551027517576524
+2025-05-18 12:28:56,302 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:28:56,304 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:28:56,310 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:28:56,310 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:28:56,310 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:28:56,346 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747551536314039734
+2025-05-18 12:28:56,347 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747551536314039734
+2025-05-18 12:28:56,354 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:28:56,355 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:28:56,356 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 12:29:04,817 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:29:04,817 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:29:04,822 - SecureWalletLogger - INFO - Received NFT request response: nft-1747551536314039734
+2025-05-18 12:29:04,822 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747551536314039734
+2025-05-18 12:29:04,822 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551536314039734
+2025-05-18 12:29:04,846 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 12:29:04,847 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 12:29:04,854 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 12:29:04,856 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 12:29:04,856 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:30:59,023 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747551027517576524
+2025-05-18 12:30:59,023 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747551027517576524
+2025-05-18 12:30:59,030 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 12:30:59,030 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 12:30:59,031 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 12:31:06,214 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:31:06,214 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:31:06,219 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747551027517576524
+2025-05-18 12:31:06,219 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747551027517576524
+2025-05-18 12:31:06,219 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551027517576524
+2025-05-18 12:31:06,260 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:31:06,261 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:31:06,266 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:31:06,267 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:31:06,268 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:31:06,315 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747551666272867216
+2025-05-18 12:31:06,316 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747551666272867216
+2025-05-18 12:31:06,322 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:31:06,323 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:31:06,324 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 12:31:16,181 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:31:16,181 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:31:16,186 - SecureWalletLogger - INFO - Received NFT request response: nft-1747551666272867216
+2025-05-18 12:31:16,186 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747551666272867216
+2025-05-18 12:31:16,186 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551666272867216
+2025-05-18 12:31:16,357 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 12:31:16,357 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 12:31:16,362 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 12:31:16,362 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 12:31:16,363 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:31:16,418 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747551676363495313
+2025-05-18 12:31:16,419 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747551676363495313
+2025-05-18 12:31:16,427 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 12:31:16,427 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 12:31:16,429 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 12:31:34,838 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:31:34,838 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:31:34,843 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747551676363495313
+2025-05-18 12:31:34,843 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747551676363495313
+2025-05-18 12:31:34,843 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551676363495313
+2025-05-18 12:31:34,884 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:31:34,886 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:31:34,892 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:31:34,893 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:31:34,893 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:31:34,936 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747551694898427782
+2025-05-18 12:31:34,937 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747551694898427782
+2025-05-18 12:31:34,946 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:31:34,948 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:31:34,948 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 12:35:49,036 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:35:49,036 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:35:49,041 - SecureWalletLogger - INFO - Received NFT request response: nft-1747551694898427782
+2025-05-18 12:35:49,041 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747551694898427782
+2025-05-18 12:35:49,041 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551694898427782
+2025-05-18 12:35:49,084 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 12:35:49,086 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 12:35:49,091 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 12:35:49,091 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 12:35:49,092 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:35:49,130 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747551949094386876
+2025-05-18 12:35:49,131 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747551949094386876
+2025-05-18 12:35:49,138 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 12:35:49,139 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 12:35:49,140 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 12:36:02,957 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 12:36:10,787 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 12:36:10,894 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 12:36:20,916 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 12:36:20,940 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 12:36:20,940 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 12:36:20,941 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 12:36:20,941 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 12:36:20,941 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 12:36:20,941 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 12:36:20,942 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 12:36:21,010 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 12:36:28,412 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 12:36:28,429 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 12:36:28,444 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 12:36:28,444 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 12:36:28,444 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 12:36:29,445 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 12:36:29,445 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 12:36:29,464 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 12:36:29,464 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 12:36:29,484 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 12:36:29,485 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 12:36:29,487 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 12:36:37,230 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:36:37,231 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:36:37,235 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747551949094386876
+2025-05-18 12:36:37,235 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747551949094386876
+2025-05-18 12:36:37,236 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551949094386876
+2025-05-18 12:36:37,262 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:36:37,263 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:36:37,269 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:36:37,269 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:36:37,270 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:36:37,317 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747551997272560541
+2025-05-18 12:36:37,318 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747551997272560541
+2025-05-18 12:36:37,324 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:36:37,325 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:36:37,325 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 12:36:41,768 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 12:36:41,768 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 12:36:41,773 - SecureWalletLogger - INFO - Received NFT request response: nft-1747551997272560541
+2025-05-18 12:36:41,773 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747551997272560541
+2025-05-18 12:36:41,773 - SecureWalletLogger - INFO - Sent result back to server: nft-1747551997272560541
+2025-05-18 12:36:41,791 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 12:36:41,792 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 12:36:41,798 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 12:36:41,798 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 12:36:41,798 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:36:41,849 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747552001800042976
+2025-05-18 12:36:41,849 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747552001800042976
+2025-05-18 12:36:41,856 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 12:36:41,857 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 12:36:41,860 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 12:36:46,180 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 12:37:16,857 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 12:37:16,976 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 12:37:37,020 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 12:37:37,038 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 12:37:37,039 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 12:37:37,039 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 12:37:37,039 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 12:37:37,039 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 12:37:37,039 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 12:37:37,040 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 12:37:37,123 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 12:37:42,610 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 12:37:42,626 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 12:37:42,647 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 12:37:42,647 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 12:37:42,648 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 12:37:43,148 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 12:37:43,149 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 12:37:43,167 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 12:37:43,168 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 12:37:43,187 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 12:37:43,187 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 12:37:43,188 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 12:37:53,526 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 12:37:53,527 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 12:37:53,531 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747552001800042976
+2025-05-18 12:37:53,532 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747552001800042976
+2025-05-18 12:37:53,532 - SecureWalletLogger - INFO - Sent result back to server: nft-1747552001800042976
+2025-05-18 12:37:53,573 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 12:37:53,574 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 12:37:53,580 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 12:37:53,581 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 12:37:53,581 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 12:37:53,627 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747552073587256522
+2025-05-18 12:37:53,627 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747552073587256522
+2025-05-18 12:37:53,634 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 12:37:53,634 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 12:37:53,635 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 13:24:28,205 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 13:24:28,205 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 13:24:28,210 - SecureWalletLogger - INFO - Received NFT request response: nft-1747552073587256522
+2025-05-18 13:24:28,210 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747552073587256522
+2025-05-18 13:24:28,211 - SecureWalletLogger - INFO - Sent result back to server: nft-1747552073587256522
+2025-05-18 13:24:28,250 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 13:24:28,251 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 13:24:28,257 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 13:24:28,258 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 13:24:28,258 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 13:24:28,370 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747554868260506468
+2025-05-18 13:24:28,370 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747554868260506468
+2025-05-18 13:24:28,377 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 13:24:28,377 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 13:24:28,377 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 13:40:15,075 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 13:40:18,662 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 13:40:19,236 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 13:48:00,088 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 13:48:00,160 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 13:48:00,160 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 13:48:00,161 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 13:48:00,161 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 13:48:00,161 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 13:48:00,161 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 13:48:00,162 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 13:48:00,249 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 13:48:11,668 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 13:48:11,685 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 13:48:11,701 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 13:48:11,701 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 13:48:11,701 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 13:48:12,202 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 13:48:12,203 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 13:48:12,224 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 13:48:12,233 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 13:48:12,252 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 13:48:12,253 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 13:48:12,255 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 13:48:37,422 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 13:48:37,422 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 13:48:37,427 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747554868260506468
+2025-05-18 13:48:37,427 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747554868260506468
+2025-05-18 13:48:37,428 - SecureWalletLogger - INFO - Sent result back to server: nft-1747554868260506468
+2025-05-18 13:48:37,543 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 13:48:37,546 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 13:48:37,552 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 13:48:37,553 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 13:48:37,554 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 13:48:37,620 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747556317561879235
+2025-05-18 13:48:37,620 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747556317561879235
+2025-05-18 13:48:37,627 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 13:48:37,628 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 13:48:37,629 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 13:50:00,277 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 13:50:00,277 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 13:50:00,282 - SecureWalletLogger - INFO - Received NFT request response: nft-1747556317561879235
+2025-05-18 13:50:00,282 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747556317561879235
+2025-05-18 13:50:00,282 - SecureWalletLogger - INFO - Sent result back to server: nft-1747556317561879235
+2025-05-18 13:50:00,337 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 13:50:00,338 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 13:50:00,344 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 13:50:00,345 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 13:50:00,346 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 13:50:00,446 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747556400346648657
+2025-05-18 13:50:00,447 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747556400346648657
+2025-05-18 13:50:00,454 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 13:50:00,454 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 13:50:00,454 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 14:52:19,505 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 15:36:06,589 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 15:36:06,694 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 15:36:14,713 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 15:36:14,739 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 15:36:14,740 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 15:36:14,740 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 15:36:14,740 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 15:36:14,740 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 15:36:14,740 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 15:36:14,741 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 15:36:14,814 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 15:36:31,933 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 15:36:31,949 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 15:36:31,965 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 15:36:31,965 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 15:36:31,965 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 15:36:37,969 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 15:36:37,971 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 15:37:01,299 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 15:37:01,448 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 15:37:01,452 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 15:37:01,473 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 15:37:01,474 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 15:37:01,474 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 15:37:01,475 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 15:37:01,475 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 15:37:01,476 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 15:37:01,477 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 15:37:01,555 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 15:37:09,115 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 15:37:09,131 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 15:37:09,155 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 15:37:09,156 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 15:37:09,156 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 15:37:15,160 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 15:37:15,162 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 15:37:40,801 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 15:37:40,911 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 15:37:46,926 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 15:37:46,946 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 15:37:46,947 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 15:37:46,947 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 15:37:46,947 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 15:37:46,948 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 15:37:46,949 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 15:37:46,950 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 15:37:47,027 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 15:37:53,719 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 15:37:53,736 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 15:37:53,757 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 15:37:53,757 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 15:37:53,758 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 15:37:59,762 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 15:37:59,764 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 15:39:01,993 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 15:39:02,105 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 15:39:02,110 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 15:39:02,134 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 15:39:02,135 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 15:39:02,135 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 15:39:02,135 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 15:39:02,136 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 15:39:02,136 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 15:39:02,136 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 15:39:02,209 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 15:39:09,033 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 15:39:09,049 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 15:39:09,067 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 15:39:09,067 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 15:40:01,098 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 15:40:01,223 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 15:40:01,228 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 15:40:01,247 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 15:40:01,247 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 15:40:01,247 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 15:40:01,248 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 15:40:01,248 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 15:40:01,248 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 15:40:01,248 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 15:40:01,324 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 15:40:07,166 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 15:40:07,183 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 15:40:07,194 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 15:40:07,195 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 15:40:49,306 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 15:40:49,306 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:49,828 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:50,329 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:50,829 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:51,330 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:51,831 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:52,331 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:52,832 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:53,333 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:53,833 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:54,334 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 15:40:54,335 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 15:40:57,302 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 15:40:57,438 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 15:40:57,442 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM1
+2025-05-18 15:40:57,462 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM1
+2025-05-18 15:40:57,463 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 15:40:57,463 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 15:40:57,464 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 15:40:57,465 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 15:40:57,465 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 15:40:57,466 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 15:40:57,535 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 15:41:02,980 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 15:41:02,996 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 15:41:03,012 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 15:41:03,013 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 15:41:03,013 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 15:41:09,018 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 15:41:09,020 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 15:41:40,833 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 15:41:40,947 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 15:41:40,953 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 15:41:40,977 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 15:41:40,979 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 15:41:40,979 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 15:41:40,979 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 15:41:40,979 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 15:41:40,980 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 15:41:40,980 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 15:41:41,058 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 15:41:46,217 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 15:41:46,233 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 15:41:46,245 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 15:41:46,246 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 15:41:46,247 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 15:41:46,748 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 15:41:46,748 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 15:41:46,767 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 15:41:46,768 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 15:41:46,786 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 15:41:46,787 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 15:41:46,790 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 15:41:53,725 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 15:41:53,725 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 15:41:53,730 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747556400346648657
+2025-05-18 15:41:53,730 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747556400346648657
+2025-05-18 15:41:53,730 - SecureWalletLogger - INFO - Sent result back to server: nft-1747556400346648657
+2025-05-18 15:41:53,771 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 15:41:53,772 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 15:41:53,778 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 15:41:53,778 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 15:41:53,778 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 15:41:53,828 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747563113785205198
+2025-05-18 15:41:53,829 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747563113785205198
+2025-05-18 15:41:53,836 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 15:41:53,836 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 15:41:53,836 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 15:43:19,174 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 15:43:19,175 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 15:43:19,179 - SecureWalletLogger - INFO - Received NFT request response: nft-1747563113785205198
+2025-05-18 15:43:19,180 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747563113785205198
+2025-05-18 15:43:19,180 - SecureWalletLogger - INFO - Sent result back to server: nft-1747563113785205198
+2025-05-18 15:43:19,219 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 15:43:19,219 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 15:43:19,225 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 15:43:19,226 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 15:43:19,226 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 15:43:19,275 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747563199227686907
+2025-05-18 15:43:19,278 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747563199227686907
+2025-05-18 15:43:19,285 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 15:43:19,285 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 15:43:19,286 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 16:32:24,910 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 18:34:19,746 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 18:34:20,179 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 19:58:07,652 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 19:58:07,740 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 19:58:07,740 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 19:58:07,740 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 19:58:07,740 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 19:58:07,741 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 19:58:07,741 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 19:58:07,741 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 19:58:07,851 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 19:58:16,998 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 19:58:17,010 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 19:58:17,038 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 19:58:17,039 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 19:58:17,041 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 19:58:18,043 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 19:58:18,043 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 19:58:18,062 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 19:58:18,062 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 19:58:18,082 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 19:58:18,084 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 19:58:18,085 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 20:00:23,988 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 20:00:26,697 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 20:00:26,879 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 20:00:26,886 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 20:00:26,924 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 20:00:26,925 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 20:00:26,925 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 20:00:26,925 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 20:00:26,926 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 20:00:26,926 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 20:00:26,926 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 20:00:27,060 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 20:00:31,641 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 20:00:36,567 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 20:00:36,719 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 20:01:10,799 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 20:01:10,828 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 20:01:10,829 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 20:01:10,830 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 20:01:10,831 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 20:01:10,831 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 20:01:10,832 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 20:01:10,832 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 20:01:10,945 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 20:01:48,491 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 20:01:48,507 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 20:01:48,526 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 20:01:48,528 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 20:01:48,529 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 20:01:54,533 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 20:01:54,538 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 20:02:23,654 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 20:02:23,830 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 20:02:23,840 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 20:02:23,886 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 20:02:23,887 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 20:02:23,887 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 20:02:23,887 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 20:02:23,888 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 20:02:23,888 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 20:02:23,888 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 20:02:23,998 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 20:02:45,826 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 20:02:45,841 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 20:02:45,862 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 20:02:45,863 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 20:02:45,863 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 20:02:50,868 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 20:02:50,869 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 20:20:21,104 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 20:20:21,249 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 20:20:21,254 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 20:20:21,285 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 20:20:21,288 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 20:20:21,289 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 20:20:21,289 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 20:20:21,290 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 20:20:21,292 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 20:20:21,293 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 20:20:21,384 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 20:20:30,842 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 20:20:30,858 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 20:20:30,880 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 20:20:30,881 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 20:20:30,882 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 20:20:36,886 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-18 20:20:36,888 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-18 20:20:52,143 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 20:20:52,326 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 20:20:52,333 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 20:20:52,365 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 20:20:52,366 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 20:20:52,367 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 20:20:52,367 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 20:20:52,368 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 20:20:52,369 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 20:20:52,369 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 20:20:52,465 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 20:20:59,234 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 20:20:59,249 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 20:20:59,266 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 20:20:59,267 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 20:20:59,267 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 20:20:59,768 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 20:20:59,768 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 20:20:59,787 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 20:20:59,790 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 20:20:59,809 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 20:20:59,810 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 20:20:59,812 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 20:21:18,935 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 20:21:18,935 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 20:21:18,938 - SecureWalletLogger - INFO - Received NFT request response: No NFT
+2025-05-18 20:21:18,938 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: No NFT
+2025-05-18 20:21:18,938 - SecureWalletLogger - INFO - Sent result back to server: No NFT
+2025-05-18 20:21:27,406 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 20:21:27,406 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 20:21:27,410 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747563199227686907
+2025-05-18 20:21:27,411 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747563199227686907
+2025-05-18 20:21:27,411 - SecureWalletLogger - INFO - Sent result back to server: nft-1747563199227686907
+2025-05-18 20:21:27,463 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 20:21:27,464 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 20:21:27,472 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 20:21:27,473 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 20:21:27,473 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 20:21:27,533 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747579887487681584
+2025-05-18 20:21:27,535 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747579887487681584
+2025-05-18 20:21:27,540 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 20:21:27,542 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 20:21:27,543 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 20:21:45,523 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 20:21:45,523 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 20:21:45,528 - SecureWalletLogger - INFO - Received NFT request response: nft-1747579887487681584
+2025-05-18 20:21:45,528 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747579887487681584
+2025-05-18 20:21:45,528 - SecureWalletLogger - INFO - Sent result back to server: nft-1747579887487681584
+2025-05-18 20:21:45,554 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 20:21:45,556 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 20:21:45,562 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 20:21:45,563 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 20:21:45,563 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 20:21:45,610 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747579905571298709
+2025-05-18 20:21:45,612 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747579905571298709
+2025-05-18 20:21:45,621 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 20:21:45,623 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 20:21:45,624 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 20:21:57,835 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 20:21:57,836 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 20:21:57,839 - SecureWalletLogger - INFO - Received NFT request response: No NFT
+2025-05-18 20:21:57,840 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: No NFT
+2025-05-18 20:21:57,840 - SecureWalletLogger - INFO - Sent result back to server: No NFT
+2025-05-18 20:23:45,681 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 20:23:45,681 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 20:23:45,686 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747579905571298709
+2025-05-18 20:23:45,686 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747579905571298709
+2025-05-18 20:23:45,687 - SecureWalletLogger - INFO - Sent result back to server: nft-1747579905571298709
+2025-05-18 20:23:45,743 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 20:23:45,745 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 20:23:45,751 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 20:23:45,753 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 20:23:45,754 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 20:23:45,810 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747580025766192272
+2025-05-18 20:23:45,811 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747580025766192272
+2025-05-18 20:23:45,817 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 20:23:45,819 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 20:23:45,819 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 20:23:49,773 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 20:23:49,773 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 20:23:49,776 - SecureWalletLogger - INFO - Received NFT auth response: No NFT
+2025-05-18 20:23:49,776 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: No NFT
+2025-05-18 20:23:49,777 - SecureWalletLogger - INFO - Sent result back to server: No NFT
+2025-05-18 20:25:23,057 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 20:25:23,058 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 20:25:23,063 - SecureWalletLogger - INFO - Received NFT request response: nft-1747580025766192272
+2025-05-18 20:25:23,064 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747580025766192272
+2025-05-18 20:25:23,064 - SecureWalletLogger - INFO - Sent result back to server: nft-1747580025766192272
+2025-05-18 20:25:23,096 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 20:25:23,098 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 20:25:23,102 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 20:25:23,103 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 20:25:23,103 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 20:25:23,152 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747580123104678425
+2025-05-18 20:25:23,152 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747580123104678425
+2025-05-18 20:25:23,159 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 20:25:23,160 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 20:25:23,161 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-18 20:25:33,341 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-18 21:05:23,912 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-18 21:05:24,123 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-18 21:05:48,179 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-18 21:05:48,213 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-18 21:05:48,213 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-18 21:05:48,213 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-18 21:05:48,214 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-18 21:05:48,214 - SecureWalletLogger - DEBUG - Context created
+2025-05-18 21:05:48,214 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-18 21:05:48,215 - SecureWalletLogger - DEBUG - Window created
+2025-05-18 21:05:48,348 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-18 21:06:10,967 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-18 21:06:10,984 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-18 21:06:11,002 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-18 21:06:11,004 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-18 21:06:11,007 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-18 21:06:11,510 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-18 21:06:11,510 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-18 21:06:11,529 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-18 21:06:11,529 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-18 21:06:11,548 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-18 21:06:11,550 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-18 21:06:11,554 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-18 21:25:21,271 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-18 21:25:21,271 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-18 21:25:21,276 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747580123104678425
+2025-05-18 21:25:21,276 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747580123104678425
+2025-05-18 21:25:21,276 - SecureWalletLogger - INFO - Sent result back to server: nft-1747580123104678425
+2025-05-18 21:25:21,334 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-18 21:25:21,335 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-18 21:25:21,341 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-18 21:25:21,342 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-18 21:25:21,343 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 21:25:21,386 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747583721347476926
+2025-05-18 21:25:21,387 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747583721347476926
+2025-05-18 21:25:21,393 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-18 21:25:21,394 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-18 21:25:21,394 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-18 21:25:25,335 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-18 21:25:25,335 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-18 21:25:25,340 - SecureWalletLogger - INFO - Received NFT request response: nft-1747583721347476926
+2025-05-18 21:25:25,340 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747583721347476926
+2025-05-18 21:25:25,340 - SecureWalletLogger - INFO - Sent result back to server: nft-1747583721347476926
+2025-05-18 21:25:25,367 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-18 21:25:25,368 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-18 21:25:25,374 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-18 21:25:25,375 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-18 21:25:25,375 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-18 21:25:25,409 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747583725376327973
+2025-05-18 21:25:25,410 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747583725376327973
+2025-05-18 21:25:25,417 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-18 21:25:25,418 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-18 21:25:25,419 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-19 08:23:36,019 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-19 08:24:15,180 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-19 08:24:15,340 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-19 08:24:15,346 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-19 08:24:15,380 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-19 08:24:15,381 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-19 08:24:15,381 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-19 08:24:15,381 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-19 08:24:15,383 - SecureWalletLogger - DEBUG - Context created
+2025-05-19 08:24:15,383 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-19 08:24:15,383 - SecureWalletLogger - DEBUG - Window created
+2025-05-19 08:24:15,481 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-19 08:24:21,431 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-19 08:24:21,447 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-19 08:24:21,469 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-19 08:24:21,471 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-19 08:24:21,472 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-19 08:24:27,476 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-19 08:24:27,478 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-19 08:24:40,595 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-19 08:24:40,736 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-19 08:24:40,742 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-19 08:24:40,773 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-19 08:24:40,774 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-19 08:24:40,775 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-19 08:24:40,775 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-19 08:24:40,776 - SecureWalletLogger - DEBUG - Context created
+2025-05-19 08:24:40,777 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-19 08:24:40,777 - SecureWalletLogger - DEBUG - Window created
+2025-05-19 08:24:40,869 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-19 08:24:45,945 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-19 08:24:45,962 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-19 08:24:45,983 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-19 08:24:45,984 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-19 08:24:45,985 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-19 08:24:46,486 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-19 08:24:46,487 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-19 08:24:46,506 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-19 08:24:46,507 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-19 08:24:46,527 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-19 08:24:46,535 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-19 08:24:46,544 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-19 08:24:52,112 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-19 08:24:52,113 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-19 08:24:52,117 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747583725376327973
+2025-05-19 08:24:52,118 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747583725376327973
+2025-05-19 08:24:52,118 - SecureWalletLogger - INFO - Sent result back to server: nft-1747583725376327973
+2025-05-19 08:24:52,268 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-19 08:24:52,269 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-19 08:24:52,280 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-19 08:24:52,281 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-19 08:24:52,281 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-19 08:24:52,332 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747623292294263363
+2025-05-19 08:24:52,333 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747623292294263363
+2025-05-19 08:24:52,340 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-19 08:24:52,342 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-19 08:24:52,342 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-19 08:24:56,771 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-19 08:24:56,772 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-19 08:24:56,777 - SecureWalletLogger - INFO - Received NFT request response: nft-1747623292294263363
+2025-05-19 08:24:56,777 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747623292294263363
+2025-05-19 08:24:56,778 - SecureWalletLogger - INFO - Sent result back to server: nft-1747623292294263363
+2025-05-19 08:24:56,881 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-19 08:24:56,881 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-19 08:24:56,887 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-19 08:24:56,887 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-19 08:24:56,888 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-19 08:24:56,928 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747623296888526298
+2025-05-19 08:24:56,930 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747623296888526298
+2025-05-19 08:24:56,937 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-19 08:24:56,938 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-19 08:24:56,939 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-19 08:27:23,981 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-19 09:06:10,970 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-19 09:06:11,098 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-19 09:06:11,103 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-19 09:06:11,139 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-19 09:06:11,140 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-19 09:06:11,140 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-19 09:06:11,140 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-19 09:06:11,141 - SecureWalletLogger - DEBUG - Context created
+2025-05-19 09:06:11,141 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-19 09:06:11,142 - SecureWalletLogger - DEBUG - Window created
+2025-05-19 09:06:11,238 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-19 09:06:19,188 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-19 09:06:19,204 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-19 09:06:19,219 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-19 09:06:19,221 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-19 09:06:19,222 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-19 09:06:19,723 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-19 09:06:19,723 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-19 09:06:19,742 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-19 09:06:19,744 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-19 09:06:19,763 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-19 09:06:19,763 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-19 09:06:19,765 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-19 09:06:28,162 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-19 09:06:28,162 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-19 09:06:28,167 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747623296888526298
+2025-05-19 09:06:28,167 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747623296888526298
+2025-05-19 09:06:28,168 - SecureWalletLogger - INFO - Sent result back to server: nft-1747623296888526298
+2025-05-19 09:06:28,358 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-19 09:06:28,358 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-19 09:06:28,365 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-19 09:06:28,365 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-19 09:06:28,366 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-19 09:06:28,403 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747625788368992676
+2025-05-19 09:06:28,404 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747625788368992676
+2025-05-19 09:06:28,412 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-19 09:06:28,413 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-19 09:06:28,413 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-19 09:06:45,257 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-19 09:06:45,258 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-19 09:06:45,263 - SecureWalletLogger - INFO - Received NFT request response: nft-1747625788368992676
+2025-05-19 09:06:45,263 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747625788368992676
+2025-05-19 09:06:45,263 - SecureWalletLogger - INFO - Sent result back to server: nft-1747625788368992676
+2025-05-19 09:06:45,639 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-19 09:06:45,639 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-19 09:06:45,645 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-19 09:06:45,645 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-19 09:06:45,646 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-19 09:06:45,686 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747625805646539354
+2025-05-19 09:06:45,686 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747625805646539354
+2025-05-19 09:06:45,693 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-19 09:06:45,694 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-19 09:06:45,696 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-19 09:06:57,035 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-19 09:07:03,858 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-19 09:07:03,981 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-19 09:44:07,049 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-19 09:44:07,106 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-19 09:44:07,108 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-19 09:44:07,110 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-19 09:44:07,112 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-19 09:44:07,114 - SecureWalletLogger - DEBUG - Context created
+2025-05-19 09:44:07,117 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-19 09:44:07,120 - SecureWalletLogger - DEBUG - Window created
+2025-05-19 09:44:07,276 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-19 09:44:14,837 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-19 09:44:14,856 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-19 09:44:14,878 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-19 09:44:14,879 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-19 09:44:14,880 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-19 09:44:20,885 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-19 09:44:20,888 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-19 09:44:28,796 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-19 09:44:28,969 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-19 09:44:28,975 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-19 09:44:29,010 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-19 09:44:29,012 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:10080
+2025-05-19 09:44:29,014 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-19 09:44:29,014 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-19 09:44:29,015 - SecureWalletLogger - DEBUG - Context created
+2025-05-19 09:44:29,016 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-19 09:44:29,016 - SecureWalletLogger - DEBUG - Window created
+2025-05-19 09:44:29,156 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-19 09:44:34,270 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-19 09:44:34,286 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-19 09:44:34,310 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-19 09:44:34,311 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-19 09:44:34,311 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-19 09:44:34,316 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-19 09:44:34,316 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-19 09:44:34,335 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590
+2025-05-19 09:44:34,336 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-19 09:44:34,355 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+2025-05-19 09:44:34,358 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200042a7ed6e5de2228b01add17dc157aaac53bad659bb4d7816a41cfa40e12b1d5b339cbd69b1fd68d50de93a5f93a94decd83c5063b477daa544330c086fd66f590,3059301306072a8648ce3d020106082a8648ce3d03010703420004f85cc5e5b94e5f223150210d9c7a7be7be6f371bcc8ebb07dc4e8290af7419eecba844e2d60c7ec6644f1a186bef89aea10ddb175cc5f301c1351583b9c759bd
+
+2025-05-19 09:44:34,362 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-19 09:45:18,028 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-19 09:45:18,028 - SecureWalletLogger - INFO - Sent: GET_NFT_AUTH
+2025-05-19 09:45:18,033 - SecureWalletLogger - INFO - Received NFT auth response: nft-1747625805646539354
+2025-05-19 09:45:18,034 - SecureWalletLogger - INFO - Command 'getauthnft' executed. Result: nft-1747625805646539354
+2025-05-19 09:45:18,035 - SecureWalletLogger - INFO - Sent result back to server: nft-1747625805646539354
+2025-05-19 09:45:18,407 - SecureWalletLogger - INFO - Received message from server: removeauthnft
+2025-05-19 09:45:18,408 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_AUTH
+2025-05-19 09:45:18,414 - SecureWalletLogger - INFO - Received NFT auth remove response: NFT_REMOVED
+2025-05-19 09:45:18,415 - SecureWalletLogger - INFO - Command 'removeauthnft' executed. Result: NFT_REMOVED
+2025-05-19 09:45:18,415 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-19 09:45:18,461 - SecureWalletLogger - INFO - Received message from server: setreqnft nft-1747628118421368261
+2025-05-19 09:45:18,461 - SecureWalletLogger - INFO - Sent: SET_NFT_REQ nft-1747628118421368261
+2025-05-19 09:45:18,468 - SecureWalletLogger - INFO - Received NFT request set response: NFT_REQ stored
+2025-05-19 09:45:18,468 - SecureWalletLogger - INFO - Command 'setreqnft' executed. Result: NFT_REQ stored
+2025-05-19 09:45:18,468 - SecureWalletLogger - INFO - Sent result back to server: NFT_REQ stored
+2025-05-19 09:45:36,169 - SecureWalletLogger - INFO - Received message from server: getreqnft
+2025-05-19 09:45:36,170 - SecureWalletLogger - INFO - Sent: GET_NFT_REQ
+2025-05-19 09:45:36,175 - SecureWalletLogger - INFO - Received NFT request response: nft-1747628118421368261
+2025-05-19 09:45:36,176 - SecureWalletLogger - INFO - Command 'getreqnft' executed. Result: nft-1747628118421368261
+2025-05-19 09:45:36,177 - SecureWalletLogger - INFO - Sent result back to server: nft-1747628118421368261
+2025-05-19 09:45:36,527 - SecureWalletLogger - INFO - Received message from server: removereqnft
+2025-05-19 09:45:36,527 - SecureWalletLogger - INFO - Sent: REMOVE_NFT_REQ
+2025-05-19 09:45:36,534 - SecureWalletLogger - INFO - Received NFT request remove response: NFT_REMOVED
+2025-05-19 09:45:36,534 - SecureWalletLogger - INFO - Command 'removereqnft' executed. Result: NFT_REMOVED
+2025-05-19 09:45:36,534 - SecureWalletLogger - INFO - Sent result back to server: NFT_REMOVED
+2025-05-19 09:45:36,578 - SecureWalletLogger - INFO - Received message from server: setauthnft nft-1747628136536089732
+2025-05-19 09:45:36,584 - SecureWalletLogger - INFO - Sent: SET_NFT_AUTH nft-1747628136536089732
+2025-05-19 09:45:36,591 - SecureWalletLogger - INFO - Received NFT auth set response: NFT_AUTH stored
+2025-05-19 09:45:36,592 - SecureWalletLogger - INFO - Command 'setauthnft' executed. Result: NFT_AUTH stored
+2025-05-19 09:45:36,592 - SecureWalletLogger - INFO - Sent result back to server: NFT_AUTH stored
+2025-05-19 09:45:53,258 - SecureWalletLogger - INFO - Received message from server: getauthnft
+2025-05-19 09:45:53,258 - SecureWalletLogger - ERROR - Error executing command 'getauthnft': write failed: [Errno 5] Input/output error

@@ -1,0 +1,4 @@
+2025-05-17T21:46:17.277+0530	[34mINFO[0m	handler/handlre.go:252	Starting GenerateWallet
+2025-05-17T21:46:17.279+0530	[34mINFO[0m	handler/handlre.go:267	Wallet generated	{"address": "3059301306072a8648ce3d020106082a8648ce3d03010703420004a2d13999251cdac302fa14bc1950fd0138efe9fae5c2bc86899a50c5ae8bb59272b0b24ead4ece251ce544987ab70aaea909b32d81e5a7e99be112bae7f9bcbe"}
+2025-05-17T21:46:17.310+0530	[34mINFO[0m	auth-blockchain/main.go:23	Host wallet created	{"address": "3059301306072a8648ce3d020106082a8648ce3d03010703420004a2d13999251cdac302fa14bc1950fd0138efe9fae5c2bc86899a50c5ae8bb59272b0b24ead4ece251ce544987ab70aaea909b32d81e5a7e99be112bae7f9bcbe"}
+2025-05-17T21:46:17.311+0530	[34mINFO[0m	auth-blockchain/main.go:38	auth blockchain Server running on port 18080

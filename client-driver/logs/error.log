@@ -122,3 +122,22 @@
 2025-05-08 17:10:16,491 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
 2025-05-09 09:11:02,742 - SecureWalletLogger - ERROR - Error executing command 'getauthnft': write failed: [Errno 5] Input/output error
 2025-05-09 10:27:15,020 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-17 21:35:06,036 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-17 21:38:56,744 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-17 21:39:16,332 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-17 21:42:15,469 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-18 11:49:39,886 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 11:59:50,894 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 12:11:33,382 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 12:28:05,123 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-18 15:40:49,306 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:49,828 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:50,329 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:50,829 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:51,330 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:51,831 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:52,331 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:52,832 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:53,333 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-18 15:40:53,833 - SecureWalletLogger - ERROR - Error reading from serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2025-05-19 09:45:53,258 - SecureWalletLogger - ERROR - Error executing command 'getauthnft': write failed: [Errno 5] Input/output error

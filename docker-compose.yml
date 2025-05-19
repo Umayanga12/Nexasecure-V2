@@ -42,7 +42,7 @@ services:
     build:
       context: ./req-blockchain
     ports:
-      - "18081:18080"
+      - "18085:18085"
     depends_on:
       - redis
       - db
@@ -66,7 +66,7 @@ services:
     build:
       context: ./socket-server
     ports:
-      - "9000:8080"
+      - "10080:10080"
     depends_on:
       - redis
       - db
@@ -79,7 +79,7 @@ services:
     build:
       context: ./server-main
     ports:
-      - "8081:8080"
+      - "8080:8080"
     depends_on:
       - redis
       - db

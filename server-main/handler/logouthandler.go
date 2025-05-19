@@ -88,11 +88,11 @@ func LogoutHandler(c *gin.Context) {
 	}
 	log.Info(fmt.Sprintf("New Auth NFT minted successfully for user: %s", UserData.Username))
 	//store int wallet
-	// isStored := util.StoreAuthNFT(newAuthNFT, authpubaddr)
-	// if !isStored {
-	// 	log.Error(fmt.Sprintf("Failed to store new Auth NFT for user: %s", UserData.Username))
-	// 	return
-	// }
+	isStored := util.StoreAuthNFT(authpubaddr,newAuthNFT)
+	if !isStored {
+		log.Error(fmt.Sprintf("Failed to store new Auth NFT for user: %s", UserData.Username))
+		return
+	}
 	log.Info(fmt.Sprintf("New Auth NFT stored successfully for user: %s", UserData.Username))
 
 	c.JSON(200, gin.H{"message": "User logged out successfully"})
